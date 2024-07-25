@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou Gabriel 👋</h1>
-<h3 align="center">Estudante de ciência da computação apaixonado por solucionar problemas usando tecnologia. Familiarizado no desenvolvimento web backend.Empenhado em aprender e desenvolver de forma otimizada e criativa.
+<h3 align="center">Estudante de ciência da computação apaixonado por solucionar problemas usando tecnologia. Familiarizado no desenvolvimento web backend. Empenhado em aprender e desenvolver de forma otimizada e criativa.
 </h3>
 
 <h3 align="left">Email:</h3>
